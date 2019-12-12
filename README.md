@@ -2,7 +2,7 @@
 
       Background Research
                         
-  I utilised pandas and matplotlib to perform calculations. In created a dataframe to create the Congenital Hypothyroidism dataset. I obtained the summary statistics of the dataset by calling the functions df.describe() and df.info(). I saved these results as a CSV file and then used a online CSV converter to markdown (convertcsv.com) in order to include it as a table in the READme file. 
+  I decided to choose the study of Congenital Hypothyroidism for the purposes of this study as I have a personal interest due to my daughter being diagnosed with the condition at 10 days old. Her condition is permanent and she will be medicated for life. She was diagnosed by the heel prick test and was medicated immediately thus her prognosis is good but the same can not be said for a child born in a third world country where diagnosis, prognosis and treatment outlook is poor. I utilised pandas and matplotlib to perform calculations. In created a dataframe to create the Congenital Hypothyroidism dataset. I obtained the summary statistics of the dataset by calling the functions df.describe() and df.info(). I saved these results as a CSV file and then used a online CSV converter to markdown (convertcsv.com) in order to include it as a table in the READme file. 
   
                                                          Introduction
   
