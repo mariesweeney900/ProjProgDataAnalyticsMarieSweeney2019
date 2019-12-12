@@ -2,7 +2,7 @@
 
       Background Research
                         
-  I decided to choose the study of Congenital Hypothyroidism for the purposes of this study as I have a personal interest due to my daughter being diagnosed with the condition at 10 days old. Her condition is permanent and she will be medicated for life. She was diagnosed by the heel prick test and was medicated immediately thus her prognosis is good but the same can not be said for a child born in a third world country where diagnosis, prognosis and treatment outlook is poor. I utilised pandas and matplotlib to perform calculations. In created a dataframe to create the Congenital Hypothyroidism dataset. I obtained the summary statistics of the dataset by calling the functions df.describe() and df.info(). I saved these results as a CSV file and then used a online CSV converter to markdown (convertcsv.com) in order to include it as a table in the READme file. 
+  I chose the topic of Congenital Hypothyroidism for the purposes of this study as I have a personal interest owing to my daughter being diagnosed with the condition at 10 days old. Her condition is permanent and she will be medicated for life. She was diagnosed by the heel prick test and was medicated immediately thus her prognosis is good but the same can not be said for a child born in a third world country where diagnosis, prognosis and treatment outlook is poor which can lead to serious mental and physical deterioration. I utilised pandas and matplotlib to perform calculations. I created a dataframe to form the Congenital Hypothyroidism dataset. I obtained the summary statistics of the dataset by calling the functions df.describe() and df.info(). I saved these results as a CSV file and then used a online CSV converter to markdown (convertcsv.com) in order to include it as a table in the READme file. 
   
                                                          Introduction
   
@@ -15,16 +15,14 @@
   
                                                        Dyshormonogenesis
                                                        
-  Thyroid dyshormonogenesis is due to a genetic anomaly in the processing of thyroid hormones.
-
-Patients develop hypothyroidism with a goiter. It is owing to either a lack of thyroid enzymes, or a difficulty in concentrating, or lack of productive binding. This is due to inefficient production of thyroid hormones due to a lack of peroxidase or dehalogenase enzymes from birth.
+  Thyroid dyshormonogenesis is due to a genetic anomaly in the processing of thyroid hormones. Patients develop hypothyroidism with a goiter. It is owing to either a lack of thyroid enzymes, or a difficulty in concentrating, or lack of productive binding. This is due to inefficient production of thyroid hormones due to a lack of peroxidase or dehalogenase enzymes from birth.
   
   
   
                                                          Athyreosis 
 
 
-A rare form of thyroid dysgenesis causing no presence of thyroid tissue leading to primary congenital hypothyroidism, a permanent thyroid deficiency that is always congenital in nature. 
+  A rare form of thyroid dysgenesis causing no presence of thyroid tissue leading to primary congenital hypothyroidism, a permanent thyroid deficiency that is always congenital in nature. 
 
         Congenital Hypothyroidism Dataset
   
