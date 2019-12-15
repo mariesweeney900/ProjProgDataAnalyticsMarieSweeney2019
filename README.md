@@ -11,7 +11,7 @@
   
                                                          Introduction
   
-  Hypothyroidism is a congenital versus inherited disorder in most incidences.  It is endocrine in its nature, and causes failure of the thyroid gland to release thyroxine.  The condition has a number of different etiologies. Some patients may have a very tiny thyroid gland in their neck or an absent gland and more have no ability to produce the hormone thyroxine. It is estimated that one in every 3,500 infants born in Ireland may have CH.  
+  Hypothyroidism is a congenital versus inherited disorder in most incidences.  It is endocrine in its nature, and causes failure of the thyroid gland to release thyroxine.  The condition has a number of different etiologies. Some patients may have a very tiny thyroid gland in their neck or an absent gland and more have no ability to produce the hormone thyroxine. It is estimated that one in every 3,500 infants born in Ireland may have CH. Blood level testing involves the monitoring of both TSH and T4 levels. The hypothalamus releases thyroid releasing hormone (TRH), which activates thyrotrophs in the pituitary to release TSH. T4 and T3 can then posit a negative feedback on TSH level, with high levels of T3/T4 reducing TSH and low levels of T3/T4 increasing TSH levels from the  pituitary. The focus of treatment of congenital hypothyroidism is efficient diagnosis and full thyroid hormone replacement. Effective treatment involves diagnosis before age 10-13 days and correction of thyroid hormone blood levels 3 weeks old. Levothyroxine medication is the only proven mode of treatment. 
 
                                                         Thyroid Ectopia
   
@@ -69,4 +69,8 @@ http://convertcsv.com
 https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&Expert=95713
 
 https://www.orpha.net/consor/cgi-bin/OC_Exp.php?Expert=95712&lng=EN
+
+https://www.ncbi.nlm.nih.gov/books/NBK499850/
+
+https://emedicine.medscape.com/article/919758-overview
 
